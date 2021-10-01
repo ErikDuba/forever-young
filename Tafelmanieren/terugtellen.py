@@ -15,3 +15,4 @@ if confirmation == 'yes':
     print('\'Het raketje\' is on it\'s million mile journey to Saturn! ')
 elif confirmation == 'no':
     print('The rocket exploded and 721 people died...')
+input('')

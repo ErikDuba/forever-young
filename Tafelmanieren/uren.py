@@ -13,4 +13,4 @@ for pm in range(1,13, 1):
     print(str(pm) + 'PM')
     time.sleep(1)
     clear()
-    
+input('')    
